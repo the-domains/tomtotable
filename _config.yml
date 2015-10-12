@@ -1,6 +1,7 @@
 name: TomToTable
 favicon: null
 layout_spectrum: 0.8
+title: Cooking blog
 cta:
   domain: null
   bucket: null
