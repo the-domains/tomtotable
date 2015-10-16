@@ -1,6 +1,6 @@
 name: TomToTable
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.363588425796479
 title: Cooking blog
 cta:
   domain: null
@@ -24,3 +24,4 @@ purpose:
   - name: follow
     item: null
     url: null
+typography_spectrum: 0.273624176857993
