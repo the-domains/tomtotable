@@ -1,32 +1,19 @@
-name: TomToTable
-favicon: null
-layout_spectrum: 0.49249
-typography_spectrum: 0.67302
-title: Cooking blog
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#ffffff'
-    - '#82be42'
-    - '#106a37'
-    - '#b0d688'
-    - '#3c855b'
+    - '#D8E8D0'
+    - '#106830'
+    - '#000000'
+    - '#70B040'
+    - '#A0C870'
   brandStrength: 1
   lightness: 0.75
-  saturation: 0
   rhythmicContrast: 1
+  saturation: 0
+cta: {}
+layout_spectrum: 0.49249
+name: TomToTable
+opengraph: {}
 purpose:
   - name: follow
-    item: null
-    url: null
+typography_spectrum: 0.67302
