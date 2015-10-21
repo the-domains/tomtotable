@@ -1,6 +1,6 @@
 name: TomToTable
 favicon: null
-layout_spectrum: 0.363588425796479
+layout_spectrum: 1
 typography_spectrum: 0.273624176857993
 title: Cooking blog
 cta:
@@ -24,7 +24,7 @@ color:
     - '#3c855b'
   brandStrength: 1
   lightness: 0.5
-  saturation: 0.5
+  saturation: 0
   rhythmicContrast: 0.5
 purpose:
   - name: follow
