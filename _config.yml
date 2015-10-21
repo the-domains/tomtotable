@@ -1,4 +1,19 @@
-analytics: {}
+name: TomToTable
+favicon: null
+layout_spectrum: 0.49249
+typography_spectrum: 0.67302
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#D8E8D0'
@@ -8,12 +23,9 @@ color:
     - '#A0C870'
   brandStrength: 1
   lightness: 0.75
-  rhythmicContrast: 1
   saturation: 0
-cta: {}
-layout_spectrum: 0.49249
-name: TomToTable
-opengraph: {}
+  rhythmicContrast: 1
 purpose:
   - name: follow
-typography_spectrum: 0.67302
+    item: null
+    url: null
